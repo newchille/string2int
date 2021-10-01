@@ -1,0 +1,13 @@
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.exe
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.deps.json
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.runtimeconfig.json
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.runtimeconfig.dev.json
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.dll
+D:\Project\string2int\string2int\string2int\bin\Debug\netcoreapp3.1\string2int.pdb
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.AssemblyInfoInputs.cache
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.AssemblyInfo.cs
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.csproj.CoreCompileInputs.cache
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.dll
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.pdb
+D:\Project\string2int\string2int\string2int\obj\Debug\netcoreapp3.1\string2int.genruntimeconfig.cache
